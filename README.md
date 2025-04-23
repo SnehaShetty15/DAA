@@ -1,6 +1,7 @@
 # DAA
 
 Brute Force Techniques
+
 🔸 Search and Sort
 Description: Basic implementations like Linear Search, Bubble Sort, and Selection Sort.
 
@@ -9,6 +10,7 @@ Approach: Check all possibilities without optimization.
 Use Case: Simple datasets, teaching basics of algorithm design.
 
 🔹 Divide and Conquer
+
 🔸 Merge Sort
 Description: Recursively splits the array, sorts, and merges.
 
@@ -24,6 +26,7 @@ Time Complexity: Average O(n log n), Worst O(n²)
 Use Case: Fast in-place sorting, often used in libraries.
 
 🔹 Greedy Techniques
+
 🔸 Water Supply Network
 Description: Build cost-effective water distribution using Minimum Spanning Tree (MST).
 
@@ -37,6 +40,7 @@ Description: Connect points with minimal total cost using MST.
 Use Case: Network design (electric grids, road systems).
 
 🔹 Shortest Path Algorithms
+
 🔸 Optimal Road Routes (Dijkstra’s Algorithm)
 Description: Finds the shortest path from a source to all vertices.
 
@@ -52,6 +56,7 @@ Time Complexity: O(n³)
 Use Case: Planning efficient routes in a fully connected transit system.
 
 🔹 Optimization and Dynamic Programming
+
 🔸 Optimal Product Selection (Knapsack Problem)
 Description: Select items with max value under weight/space constraint.
 
