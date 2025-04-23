@@ -9,6 +9,8 @@ Approach: Check all possibilities without optimization.
 
 Use Case: Simple datasets, teaching basics of algorithm design.
 
+
+
 ** **Divide and Conquer**
 
 🔸 Merge Sort
@@ -25,6 +27,8 @@ Time Complexity: Average O(n log n), Worst O(n²)
 
 Use Case: Fast in-place sorting, often used in libraries.
 
+
+
 ** **Greedy Techniques**
 
 🔸 Water Supply Network
@@ -38,6 +42,8 @@ Use Case: Infrastructure planning with minimal pipe cost.
 Description: Connect points with minimal total cost using MST.
 
 Use Case: Network design (electric grids, road systems).
+
+
 
 ** **Shortest Path Algorithms**
 
@@ -54,6 +60,8 @@ Description: All-pairs shortest path algorithm.
 Time Complexity: O(n³)
 
 Use Case: Planning efficient routes in a fully connected transit system.
+
+
 
 ** **Optimization and Dynamic Programming**
 
